@@ -11,5 +11,17 @@
 
 [class^="col"] {
     min-height: 100px;
+    padding: 2% 2%;
 }
 
+.text-color {
+    color: white;
+}
+
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem;
+}
